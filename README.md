@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kobeshegu
-- 👀 I’m interested in Generative Adversarial Networks and Few-shot Learning.
-- 🌱 I’m currently a Ph.D candidate in East China University of Science and Technololy (ECUST).
+- 👋 Hi, I’m Mengping Yang (Call me mengping)
+- 👀 I’m very interested in Generative Adversarial Networks (GANs), Diffusion Models, and Few-shot Learning.
+- 🌱 I’m currently a Ph.D candidate (From 2019.09 to now) in East China University of Science and Technololy (ECUST).
 
 <!---
 kobeshegu/kobeshegu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
